@@ -1,3 +1,4 @@
+
 # Pastelería Mil Sabores | Frontend
 
 Interfaz de tienda en línea desarrollada con React 19, JavaScript, Vite 7 y Bootstrap 5. El frontend consume la API REST del repositorio `mil-sabores-backend`.
@@ -50,3 +51,6 @@ Para un despliegue independiente, configura `VITE_API_URL` con la URL pública d
 - Cliente: se registra desde la propia aplicación.
 
 Estas credenciales son solo para demostración local; cámbialas antes de cualquier despliegue compartido.
+=======
+# frontend_fullstack
+>>>>>>> origin/main
