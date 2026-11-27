@@ -7,7 +7,7 @@ Interfaz de tienda en línea desarrollada con React 19, JavaScript, Vite 7 y Boo
 
 - Node.js 22 o superior (recomendado).
 - npm 10 o superior.
-- Backend levantado en `http://localhost:8081` para cargar datos y autenticar usuarios.
+- Backend levantado en `http://localhost:8082` para cargar datos y autenticar usuarios.
 - Google Chrome para ejecutar las pruebas Jasmine/Karma.
 
 ## Instalación y ejecución
